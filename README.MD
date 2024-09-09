@@ -1,5 +1,7 @@
 # Notes
 
+Blank!
+
 ## Preparation Steps
 
 1. Fork this repository
